@@ -1,0 +1,9 @@
+﻿{
+  "Id": "Slimoon.Slimoon_BattleHelper",
+  "DisplayName": "战斗助手",
+  "Description": "战斗相关的助手",
+  "Author": "Slimoon",
+  "Version": "1.0.0",
+  "AssemblyName": "Slimoon_BattleHelper.dll",
+  "EntryMethod": "Slimoon_BattleHelper.Main.Load"
+}
